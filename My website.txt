@@ -1,0 +1,65 @@
+<html lang="en"><head><meta charset="UTF-8">
+    <title>My Resume</title>
+    
+        <title>My Resume</title>
+    </head>
+
+    <body>
+        <div style="text-align: center; ">
+        <img width="200px" src="https://media.licdn.com/dms/image/D4E03AQEhX5Hh-8sqhg/profile-displayphoto-shrink_200_200/0/1694697702941?e=1704931200&amp;v=beta&amp;t=XcqwSI12ZH6nUiEkMP1ZtzsoRNTI_AuxK9IJC2yPTxI" alt="Image of me" border-radius="6px"></div>
+   <hr style="background-color: rgb(11, 15, 77); height: 5px; border-radius: 20%;">
+        <h1 style="text-align: center;"><strong>Summary</strong></h1>
+        <p style="text-align: center;">Hello, thank you for coming to visit my work. My name is Thomas McDermott and I am a software engineer</p>
+<p style="text-align: center;">I've worked with tech for many years in areas of digital marketing, CRM construction, data reporting and analytics and customer success journey mapping.</p>
+<p style="text-align: center;">Part of my journey has been liasiing with different developers and working with them on these projects. 
+    Having seen how coding operates and the potential I became determined to become proficent in all things coding-related.</p>
+    <p style="text-align: center;">I learnt that I could understand intangible patterns and could retain a lot of information so I used these skills to take my understanding to a whole new level.</p>
+    <p style="text-align: center;">Not only will I have a comprehension on how the systems that I used would work but I can now shape their functionality from the beginning. This gives me a greater breadth of knowledge when working on software projects.</p>
+       
+<h1 style="text-align: center;">Education</h1>
+<p style="text-align: center;">I have completed A-Levels while at School and earned a business degree with Marketing, which I was top of my class.</p>
+
+ <h1 p="" style="text-align: center;">Work Experience</h1>
+<p style="text-align:center"> intially took a job in New Jersey, USA, as part of my univiersity experience. After understanding how businesses operated internally I've had developed incredible experience and been forturnate to hold positions such as:
+</p><ul style="text-align:center">
+Senior CRM executive <br>
+Head of Digital Transformation<br>
+Marketing Automation Specialist<br>
+Email &amp; Growth Manager <br>
+</ul>
+<p></p>
+
+<strong style="text-align: center;"><h1>Skills</h1></strong>
+<p style="text-align: center;">This is the fun part, I've developed many skills over the year both in tech and management. Here's a list</p>
+<ul style="text-align:center">
+    HTML Proficient<br>
+    Google Analytics reporting<br>
+    Marketing Automations<br>
+    Email Marketing<br>
+    Website creation<br>
+    CRM implementation and structuring<br>
+    Data reporting &amp; Analysis<br>
+    </ul>  
+    <p style="text-align: center;">And much more. </p>      
+<h1 style="text-align: center;">Hobbies</h1><p style="text-align: center;" outside="" of="" work,="" i="" thoroughly="" enjoy="" learning="" as="" much="" can,="" work="" to="" keep="" up="" date="" on="" the="" lastest="" in="" my="" field.<="" p="">
+</p><p style="text-align: center;">I also regularly exercise at the gym, swim and boxing. I try to spend as much time in nature too especially due to working from home.</p>        
+
+<h1 style="text-align: center;">Contact details</h1>
+        <p style="text-align: center;">Simply send an email to tdacost93@ggmail.com
+    </p>
+<p style="text-align: center;">Thanks for taking the time out to visit my page, Come back anytime time to see updates on projects that I'm working on.</p>
+
+
+    
+    <footer style="text-align: center;">
+        <small>
+          Footer to include additional links at a later date.
+        </small>
+      </footer>
+
+
+
+
+
+
+</body></html>
